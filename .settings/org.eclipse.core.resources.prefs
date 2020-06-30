@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/myclass/admin/controller/CategoryController.java=UTF-8
+encoding//src/main/java/com/myclass/admin/controller/CourseController.java=UTF-8
+encoding//src/main/java/com/myclass/admin/controller/RoleController.java=UTF-8
+encoding//src/main/java/com/myclass/admin/controller/TargetController.java=UTF-8
+encoding//src/main/java/com/myclass/admin/controller/UserController.java=UTF-8
+encoding//src/main/java/com/myclass/admin/controller/UserCourseController.java=UTF-8
+encoding//src/main/java/com/myclass/admin/controller/VideoController.java=UTF-8
+encoding//src/main/java/com/myclass/service/impl/UserDetailsServiceImpl.java=UTF-8
